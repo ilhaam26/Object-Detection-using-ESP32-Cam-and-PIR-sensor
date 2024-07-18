@@ -9,8 +9,8 @@
 
 const char* ssid = "xxxxx";
 const char* password = "xxxxx";
-String chatId = "1441445814";
-String BOTtoken = "5272216738:AAFkRAu7oFaO5lMfQkqeWJkjldh1URamU60";
+String chatId = "xxxx";
+String BOTtoken = "xxxxx";
 bool sendPhoto = false;
 
 WiFiClientSecure clientTCP;
